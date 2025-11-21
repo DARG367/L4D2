@@ -1,4 +1,6 @@
 # 8 Slot Lobby
+* [Admin System](https://steamcommunity.com/sharedfiles/filedetails/?id=214630948)
+* [Admin Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3601571185)
 * [8 Slot Lobby Workshop Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355)
 # Plugins
 * [MetaMod](https://www.metamodsource.net/downloads.php/?branch=master)
