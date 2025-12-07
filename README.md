@@ -1,8 +1,8 @@
-# 8 Slot Lobby
+# Workshop
 * [Admin System](https://steamcommunity.com/sharedfiles/filedetails/?id=214630948)
 * [Admin Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3601571185)
 * [8 Slot Lobby Workshop Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355)
-# Plugins
+# MetaMod + SourceMod
 * [MetaMod](https://www.metamodsource.net/downloads.php/?branch=master)
 * [SourceMod](https://www.sourcemod.net/downloads.php?branch=dev)
 * [L4DToolz + Tickrate Enabler](https://github.com/lakwsh/l4dtoolz)
