@@ -11,7 +11,7 @@
 * [Mission and Weapons - Info Editor](https://forums.alliedmods.net/showthread.php?t=310586)
 * [Reserve Ammo Control](https://forums.alliedmods.net/showthread.php?t=334274)
 * [Create Survivor Bot](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4d_CreateSurvivorBot)
-* [l4dmultislots (Harry Version)](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4dmultislots)
+* [Multi Slots (Harry Version)](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4dmultislots)
 * [Defib Fix](https://forums.alliedmods.net/showthread.php?t=315483)
 * [Survivor Identity Fix for 5+ Survivors (Shadowysn Version)](https://forums.alliedmods.net/showpost.php?p=2718792&postcount=36)
 * [Survivor AFK Fix](https://forums.alliedmods.net/showthread.php?t=326742)
