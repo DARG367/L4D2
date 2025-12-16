@@ -28,6 +28,6 @@
 * [Character Select Menu](https://forums.alliedmods.net/showthread.php?t=107121&page=92)
 * [Force L4D2 Survivor Arms, Names and Icons](https://forums.alliedmods.net/showthread.php?t=345947)
 * [No Friendly-Fire](https://forums.alliedmods.net/showthread.php?t=302822)
-* [M60 Patches](https://forums.alliedmods.net/showthread.php?t=323408)
+* [M60 & GL Patches](https://forums.alliedmods.net/showthread.php?t=323408)
 # Original Tutorial
 * [Original Tutorial by Harry](https://github.com/fbef0102/Game-Private_Plugin/blob/main/Tutorial_%E6%95%99%E5%AD%B8%E5%8D%80/English/Game/L4D2/8%2B_Survivors_In_Coop/README.md)
