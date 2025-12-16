@@ -25,7 +25,7 @@
 * [Save Weapon Improved](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4d2_ty_saveweapons)
 * [5+ Rescue Closet](https://forums.alliedmods.net/showthread.php?t=340659)
 * [Ping System](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4d2_item_hint)
-* [Character Select Menu](https://forums.alliedmods.net/showthread.php?t=107121&page=92)
+* [Character Select Menu](https://forums.alliedmods.net/showpost.php?p=2824437&postcount=915)
 * [Force L4D2 Survivor Arms, Names and Icons](https://forums.alliedmods.net/showthread.php?t=345947)
 * [No Friendly-Fire](https://forums.alliedmods.net/showthread.php?t=302822)
 * [M60 & GL Patches](https://forums.alliedmods.net/showthread.php?t=323408)
